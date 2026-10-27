@@ -1,0 +1,8 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/i107q5of","index":4,"layout":{"id":"ly/07y1cjyt","name":"Blank"},"backgroundColor":"rgba(77,19,84,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/dgbulwnm","kind":"shape","name":"Freeform 2","position":{"left":540.28,"top":142.31,"width":839.45,"height":795.38},"geometry":"custom"},
+{"id":"sh/cf2tcr61","kind":"shape","name":"Freeform 3","position":{"left":-329.95,"top":536.84,"width":770.28,"height":685.55},"geometry":"custom"},
+{"id":"sh/z2tcnm5s","kind":"textbox","name":"TextBox 4","position":{"left":405.39,"top":493.85,"width":1109.23,"height":93.3},"text":"Вот некоторые предсказания","style":{"fontSize":78.57,"typeface":"HK Grotesk Bold","color":"#FFFFFF","bold":true,"alignment":"center"},"geometry":"rect"},
+{"id":"sh/yhkbe1o7","kind":"shape","name":"Freeform 5","position":{"left":1360.17,"top":-96.22,"width":427.13,"height":408.45},"geometry":"custom"},
+{"id":"sh/l4bupwny","kind":"shape","name":"Freeform 6","position":{"left":1836.7,"top":963.68,"width":427.13,"height":408.45},"geometry":"custom"}
+]}

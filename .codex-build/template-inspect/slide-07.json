@@ -1,0 +1,8 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/gnmp4jqx","index":6,"layout":{"id":"ly/07y1cjyt","name":"Blank"},"backgroundColor":"rgba(77,19,84,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/cb2tkvap","kind":"shape","name":"Freeform 2","position":{"left":718.8,"top":752.96,"width":286.52,"height":271.48},"geometry":"custom"},
+{"id":"sh/dcbud0ra","kind":"shape","name":"Freeform 3","position":{"left":-196.07,"top":6.37,"width":1039.52,"height":925.17},"geometry":"custom"},
+{"id":"sh/ydkbm5sv","kind":"textbox","name":"TextBox 4","position":{"left":547.39,"top":380,"width":557.23,"height":158.02},"text":"Распространение\nчат-ботов","style":{"fontSize":66.79,"typeface":"HK Grotesk Bold","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect"},
+{"id":"sh/zedcfa9g","kind":"shape","name":"Freeform 5","position":{"left":743.63,"top":31.81,"width":159.35,"height":152.38},"geometry":"custom"},
+{"id":"sh/kzmdova1","kind":"textbox","name":"TextBox 6","position":{"left":1262.33,"top":277.3,"width":475.67,"height":469.32},"text":"В будущем будет существовать способ автоматизации ответов на основе заранее написанных ключевых слов и с помощью машинного обучения.\n\nПрезентации являются средствами коммуникации, которые могут использоваться в качестве демонстраций, лекций, выступлений, докладов и многого другого. В большинстве случаев они представляются перед аудиторией.","style":{"fontSize":25.84,"typeface":"Noto Sans JP","color":"#FFFFFF","alignment":"left"},"geometry":"rect"}
+]}

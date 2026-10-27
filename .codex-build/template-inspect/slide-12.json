@@ -1,0 +1,9 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/8f2psfyx","index":11,"layout":{"id":"ly/07y1cjyt","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/1gbm9s3a","kind":"shape","name":"Freeform 2","position":{"left":1599.85,"top":790.74,"width":256.27,"height":242.81},"geometry":"custom"},
+{"id":"sh/0f2lgnmp","kind":"shape","name":"Freeform 3","position":{"left":1434.91,"top":-232.67,"width":586.14,"height":560.5},"geometry":"custom"},
+{"id":"sh/ra943il8","kind":"shape","name":"Freeform 4","position":{"left":-248.05,"top":672.11,"width":821.47,"height":731.11},"geometry":"custom"},
+{"id":"sh/q903ad4n","kind":"shape","name":"Freeform 5","position":{"left":-79.97,"top":54.97,"width":303.95,"height":290.65},"geometry":"custom"},
+{"id":"sh/dcbm583y","kind":"textbox","name":"TextBox 6","position":{"left":390.69,"top":405.04,"width":557.23,"height":168.27},"text":"Автоматический\nперевод","style":{"fontSize":70.72,"typeface":"HK Grotesk Bold","color":"#731F7D","bold":true,"alignment":"left"},"geometry":"rect"},
+{"id":"sh/sb2lcnmd","kind":"textbox","name":"TextBox 7","position":{"left":1033.64,"top":330.19,"width":475.67,"height":415.62},"text":"Вам больше не будет нужно изучать иностранный язык для общения с другими\n\nПрезентации - это средства коммуникации, которые могут использоваться в качестве демонстраций, лекций, выступлений, докладов и многого другого. В большинстве случаев они представляются перед аудиторией.","style":{"fontSize":27.08,"typeface":"Noto Sans JP","color":"#000000","alignment":"left"},"geometry":"rect"}
+]}

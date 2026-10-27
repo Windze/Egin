@@ -1,0 +1,6 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/m90b6t0r","index":9,"layout":{"id":"ly/07y1cjyt","name":"Blank"},"backgroundColor":"rgba(255,255,255,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/xc3mho32","kind":"shape","name":"Freeform 2","position":{"left":0,"top":0,"width":859.73,"height":1080},"geometry":"custom"},
+{"id":"sh/cbu58j2h","kind":"textbox","name":"TextBox 3","position":{"left":960,"top":108,"width":852,"height":177.64},"text":"Интерфейс между мозгом и компьютером","style":{"fontSize":74.64,"typeface":"HK Grotesk Bold","color":"#000000","bold":true,"alignment":"left"},"geometry":"rect"},
+{"id":"sh/zelojyl8","kind":"textbox","name":"TextBox 4","position":{"left":960,"top":670.11,"width":852,"height":301.89},"text":"В будущем будет существовать способ автоматизации ответов на основе заранее написанных ключевых слов и с помощью машинного обучения.\n\nПрезентации являются средствами коммуникации, которые могут использоваться в качестве демонстраций, лекций, выступлений, докладов и многого другого. В большинстве случаев они представляются перед аудиторией.","style":{"fontSize":27.08,"typeface":"Noto Sans JP","color":"#000000","alignment":"left"},"geometry":"rect"}
+]}

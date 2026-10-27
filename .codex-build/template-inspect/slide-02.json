@@ -1,0 +1,9 @@
+{"schema":"openai.presentation.layout/v5","unit":"px","slide":{"id":"sl/hwbqtkby","index":1,"layout":{"id":"ly/07y1cjyt","name":"Blank"},"backgroundColor":"rgba(77,19,84,1)","position":{"left":0,"top":0,"width":1920,"height":1080}},
+"elements":[
+{"id":"sh/9072xkry","kind":"shape","name":"Freeform 2","position":{"left":1318.14,"top":518.62,"width":690.32,"height":763.13},"geometry":"custom"},
+{"id":"sh/ozy1ofad","kind":"shape","name":"Freeform 3","position":{"left":902.65,"top":815.91,"width":193.65,"height":183.48},"geometry":"custom"},
+{"id":"sh/b29kza94","kind":"shape","name":"Freeform 4","position":{"left":1267.21,"top":-143.01,"width":518.99,"height":600.86},"geometry":"custom"},
+{"id":"sh/x4r21kru","kind":"textbox","name":"TextBox 6","position":{"left":108,"top":362.66,"width":938,"height":362.84},"text":"Но все не может оставаться прежним.","style":{"fontSize":101.89,"typeface":"HK Grotesk Bold","color":"#FFFFFF","bold":true,"alignment":"left"},"geometry":"rect"},
+{"id":"sh/w3i1sfa9","kind":"textbox","name":"TextBox 7","position":{"left":108,"top":186.03,"width":198,"height":106.53},"text":"01","style":{"fontSize":89.37,"typeface":"HK Grotesk Bold","color":"rgba(255,255,255,0.6)","bold":true,"alignment":"left"},"geometry":"rect"},
+{"id":"sh/r65knqtk","kind":"textbox","name":"TextBox 8","position":{"left":108,"top":752.08,"width":593.58,"height":219.92},"text":"Презентации являются средствами коммуникации, которые могут использоваться в качестве демонстраций, лекций, выступлений, докладов и многого другого. В большинстве случаев они представляются перед аудиторией. Они многофункциональны, что делает их мощным инструментом убеждения и обучения.","style":{"fontSize":22.67,"typeface":"Noto Sans JP","color":"#FFFFFF","alignment":"left"},"geometry":"rect"}
+]}
